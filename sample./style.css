@@ -1,0 +1,17 @@
+ * {
+     box-sizing: border-box;
+ }
+   html body {
+     margin: 0px;
+     color: blue;
+     box-shadow: inset;
+     text-align: center;
+}
+  img {
+    width: 400px;
+    height: 450px;
+}
+   button img {
+     width: auto;
+     height: auto;
+}
